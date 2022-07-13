@@ -10,4 +10,4 @@ _По возникшим у вас вопросам вы всегда может
 
 _Приятного прохождения_
 
-[!OOP](https://static.vecteezy.com/system/resources/previews/000/145/173/original/gaucho-in-a-wild-west-sunset-landscape-vector.jpg)
+![OOP](https://static.vecteezy.com/system/resources/previews/000/145/173/original/gaucho-in-a-wild-west-sunset-landscape-vector.jpg)
