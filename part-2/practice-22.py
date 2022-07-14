@@ -1,21 +1,10 @@
-# class Message:
-#
-#     def send_hello():
-#         return 'Hello'
-#
-#     def send_world():
-#         return 'World!'
-#
-#
-# print(Message.send_hello() + ' ' + getattr(Message, 'send_world')())
-#
+class Message:
 
-class A:
+    def send_hello():
+        return 'Hello'
 
-    def factorial(n):
-        if n==0 or n==1:
-            return 1
-        return A.factorial(n-1)
+    def send_world():
+        return 'World!'
 
 
-print(A.factorial(5))
+print(Message.send_hello() + ' ' + getattr(Message, 'send_world')())
