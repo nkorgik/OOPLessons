@@ -1,0 +1,2 @@
+"""BorgIdiom - Monostate pattern
+"""
